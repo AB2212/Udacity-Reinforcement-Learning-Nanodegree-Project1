@@ -71,7 +71,7 @@ I have used two DQNs each with 4 layer Neural Network with 37, 64, 64 and 4 neur
 
 The environment got solved in 353 episodes by having average reward (13.03) more than 13 over 100 consecutive episodes. The below plot shows the reward received after each episode
 
-![reward_plot.png](attachment:reward_plot.png)
+![](reward_plot.png)
 
 ### Future Ideas
 
